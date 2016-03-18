@@ -247,7 +247,7 @@ function create_config( )
     "time",
     "version"
     },
-	    sudo_users = {142910418,179983320,24878907,173345972,126477037,187120231,161250133},--Sudo users
+	    sudo_users = {173345972},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
