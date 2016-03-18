@@ -245,7 +245,8 @@ function create_config( )
     "support",
     "server_manager",
     "time",
-    "version"
+    "version",
+    "steam"
     },
 	    sudo_users = {173345972},--Sudo users
     disabled_channels = {},
