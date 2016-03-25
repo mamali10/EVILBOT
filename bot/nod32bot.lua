@@ -255,7 +255,7 @@ function create_config( )
 https://github.com/dany-sj/EVILBOT
 
 channel : @HACKANDEVILBOT
-sodu : @Xx_shah_zaq_xX
+sodu : @vampayer10
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -522,9 +522,9 @@ version
 
 دستورات بدون ....!.../..کار میکند
 
-channel : @HACKANDEVILBOT
+channel : @teleking00
 
-sodu : @Xx_shah_zaq_xX
+sodu : @vampayer10
 
 G00D LUCK ^_^
 ]]
